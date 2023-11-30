@@ -35,12 +35,14 @@ Para instalar as dependências necesárias do projeto, siga estas etapas:
 
 Linux e macOS:
 
-```<pip install -r requirements.txt.>
+```
+<pip install -r requirements.txt.>
 ```
 
 Windows:
 
-```<pip install -r requirements.txt.>
+```
+<pip install -r requirements.txt.>
 ```
 
 ## 📂 Conteúdo do Repositório
